@@ -1,10 +1,13 @@
+<!--
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>
+-->
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&border_radius=10" align="center" style="width: 45%" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=430&border_radius=10" align="center" style="width: 45%" />
+    <img src="https://github-readme-stats-fm-sys.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&border_radius=20" align="center" height="170" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats-fm-sys.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=430&border_radius=20" align="center" height="170" />
   </a>
 </div>  
  
