@@ -10,9 +10,9 @@ Hi there, fm-sys here 👋
 -->
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-fm-sys.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&border_radius=20" align="center" style="width: 48%" /></a>
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-shka-fmsys-projects.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&border_radius=20" align="center" style="width: 48%" /></a>
   <img style="width: 1%"/>
-  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-fm-sys.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=467&border_radius=20" align="center" style="width: 48%" /></a>
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-shka-fmsys-projects.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=467&border_radius=20" align="center" style="width: 48%" /></a>
 </div>  
  
 
