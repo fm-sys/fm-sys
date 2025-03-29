@@ -12,23 +12,17 @@ Hi there, fm-sys here 👋
 <div align="center">
   <a href="https://github-readme-stats.vercel.app">
     <picture>
-      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&card_width=437&border_radius=20&theme=dark" 
-              media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&card_width=437&border_radius=20" 
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats-shka-fmsys-projects.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&card_width=437&border_radius=20" 
-           align="center" />
+      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&card_width=437&border_radius=20&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&card_width=437&border_radius=20" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats-shka-fmsys-projects.vercel.app/api?username=fm-sys&show_icons=true&include_all_commits=true&hide=contribs&line_height=24&card_width=437&border_radius=20" align="center" />
     </picture>
   </a>
 
   <a href="https://github-readme-stats.vercel.app">
     <picture>
-      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=437&border_radius=20&theme=dark" 
-              media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=437&border_radius=20" 
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats-shka-fmsys-projects.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=437&border_radius=20" 
-           align="center" />
+      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=437&border_radius=20&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats-shka-fmsys-projects.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=437&border_radius=20" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats-shka-fmsys-projects.vercel.app/api/top-langs/?username=fm-sys&layout=compact&exclude_repo=LoRaWAN&card_width=437&border_radius=20" align="center" />
     </picture>
   </a>
 </div>
